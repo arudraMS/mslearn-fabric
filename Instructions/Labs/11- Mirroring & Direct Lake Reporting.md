@@ -1,5 +1,5 @@
 # Exercise 11: Fabric Mirroring & Direct Lake Reporting
-Overview : [Snowflake Mirroring in Fabric] (https://github.com/arudraMS/mslearn-fabric/blob/8784356b1b1d19daadfec113b4a248e494be38cf/Allfiles/Labs/01/LabFiles/Snowflake%20Mirroring%20to%20Fabric%20January%202024.pdf)
+Overview : [Snowflake Mirroring in Fabric](https://github.com/arudraMS/mslearn-fabric/blob/8784356b1b1d19daadfec113b4a248e494be38cf/Allfiles/Labs/01/LabFiles/Snowflake%20Mirroring%20to%20Fabric%20January%202024.pdf)
 ### Estimated Duration: 60 minutes
 
 In this lab, you will mirror data in a lakehouse using Fabric Mirroring  by connecting to your data source, running queries, and developing direct lake reports to drive informed decision-making.
