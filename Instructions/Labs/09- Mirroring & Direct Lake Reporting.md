@@ -1,14 +1,15 @@
-# Exercise 7: Data Warehouse Analyze Data in a Warehouse with Fabric Copilot
+# Exercise 11: Fabric Mirroring & Direct Lake Reporting
 
 ### Estimated Duration: 60 minutes
 
-In this lab, you will analyze data in a warehouse using Fabric Copilot by connecting to your data source, running queries, and visualizing insights to drive informed decision-making.
+In this lab, you will mirror data in a lakehouse using Fabric Mirroring  by connecting to your data source, running queries, and developing direct lake reports to drive informed decision-making.
 
 ## Lab objectives
 
 You will be able to complete the following tasks:
 
 - Connect to the Data Warehouse  
+- Mirro the following Databases
 - Explore Data Sources  
 - Run Data Queries  
 - Visualize Data Insights  
