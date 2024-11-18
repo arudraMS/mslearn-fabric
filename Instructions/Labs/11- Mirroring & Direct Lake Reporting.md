@@ -1,6 +1,6 @@
 # Exercise 11: Fabric Mirroring & Direct Lake Reporting
 - [What is Fabric Mirroring and what are benefits associated with it](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/overview)
-- [Snowflake Mirroring in Fabric](https://github.com/arudraMS/mslearn-fabric/blob/8784356b1b1d19daadfec113b4a248e494be38cf/Allfiles/Labs/01/LabFiles/Snowflake%20Mirroring%20to%20Fabric%20January%202024.pdf)
+- [Snowflake Mirroring in Fabric (Presentation)](https://github.com/arudraMS/mslearn-fabric/blob/8784356b1b1d19daadfec113b4a248e494be38cf/Allfiles/Labs/01/LabFiles/Snowflake%20Mirroring%20to%20Fabric%20January%202024.pdf)
 - [Configure Microsoft Fabric mirrored databases from Snowflake](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-tutorial)
 - [Configure Microsoft Fabric mirrored databases from Azure SQL Database (Preview)](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-tutorial)
 - [Configure Microsoft Fabric mirrored database for Azure Cosmos DB (Preview)](https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-tutorial)
