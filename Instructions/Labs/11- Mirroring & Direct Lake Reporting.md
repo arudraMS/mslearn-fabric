@@ -17,17 +17,16 @@ In this lab, you will mirror data in a lakehouse using Fabric Mirroring  by conn
 
 You will be able to complete the following tasks:
 
-	• Connect to the Data Warehouse  
-	• Mirror the following Databases
-		○ Snowflake
-		○ Azure SQL
-		○ Cosmos
-		○ Databricks
-	• Build Semantic Models
-	• Generate Reports
- 
- 
- Collaborate on Findings  ![image](https://github.com/user-attachments/assets/7fbf50e3-d159-481e-9449-00b7ee986b72)
+	- Connect to the Data Warehouse  
+	- Mirror the following Databases
+		* Snowflake
+		* Azure SQL
+		* Cosmos
+		* Databricks
+	- Build Semantic Models from Mirrored Databases
+	- Build Direct Lake Reports using Power BI service
+	- Build Direct Lake Reports using Power BI Desktop
+	- Collaborate on Findings
   
 
 
