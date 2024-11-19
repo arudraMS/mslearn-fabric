@@ -23,14 +23,15 @@ You will be able to complete the following tasks:
 		* Azure SQL
 		* Cosmos
 		* Databricks
-	- Build Semantic Models from Mirrored Databases
-	- Build Direct Lake Reports using Power BI service
-	- Build Direct Lake Reports using Power BI Desktop
+   	- Running queries using Notebook in Fabric Lakehouse to extract insight
+	- Running queries using TSQL in Fabric SQL Endpoint to extract insight
+        - Build Semantic Models from Mirrored Databases using Fabric SQL Endpoint
+	- Build Direct Lake Reports using Power BI service & Power BI Desktop
 	- Collaborate on Findings
   
 
 
 ## Summary
-In this lab, you connected to a data warehouse using Fabric Copilot and explored the available datasets. You ran queries to extract insights and created visualizations for effective analysis. Finally, you compiled your findings into reports and collaborated with team members on the results.
+In this lab, you developed mirrored databases, ran queries to extract insights from those databases using Fabric SQL Endpoint as well as notebooks Fabric SQL Endpoint or a Fabric data warehouse or using Fabric Copilot and explored the available datasets. You ran queries visualizations for effective analysis. Finally, you compiled your findings into reports and collaborated with team members on the results.
 
 ### You have successfully completed the lab. Click on Next >> to procced with next exercise.
